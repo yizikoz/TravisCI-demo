@@ -1,6 +1,6 @@
 // Karma configuration
 // Generated on Sun Jan 29 2017 22:51:56 GMT+0200 (Jerusalem Standard Time)
-
+//itzik
 module.exports = function ( config ) {
   config.set( {
 
